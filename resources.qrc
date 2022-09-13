@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/title_ico.png</file>
+        <file>fonts/Roboto-Medium.ttf</file>
+    </qresource>
+</RCC>
